@@ -1,6 +1,9 @@
 <img src="assets/logo.svg" height="50px"/> The Futhark Programming Language
 ==========
 
+This is a custom fork for the work made by @sortraev and i for a project with Cosmin fall 2023
+==============================================================================================
+
 [![Join the chat at https://gitter.im/futhark-lang/Lobby](https://badges.gitter.im/futhark-lang/Lobby.svg)](https://gitter.im/futhark-lang/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![CI](https://github.com/diku-dk/futhark/workflows/CI/badge.svg)](https://github.com/diku-dk/futhark/actions)[![DOI](https://zenodo.org/badge/7960131.svg)](https://zenodo.org/badge/latestdoi/7960131)
 
 Futhark is a purely functional data-parallel programming language in
